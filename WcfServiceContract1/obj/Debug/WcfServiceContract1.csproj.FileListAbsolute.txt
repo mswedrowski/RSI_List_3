@@ -1,0 +1,7 @@
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\bin\Debug\WcfServiceContract1.dll.config
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\bin\Debug\WcfServiceContract1.dll
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\bin\Debug\WcfServiceContract1.pdb
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\obj\Debug\WcfServiceContract1.csprojAssemblyReference.cache
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\obj\Debug\WcfServiceContract1.csproj.CoreCompileInputs.cache
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\obj\Debug\WcfServiceContract1.dll
+C:\Users\swedr\OneDrive\Dokumenty\Visual Studio 2017\Projects\WcfServiceHost\WcfServiceContract1\obj\Debug\WcfServiceContract1.pdb
